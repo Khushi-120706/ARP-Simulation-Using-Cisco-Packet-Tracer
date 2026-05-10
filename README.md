@@ -7,8 +7,8 @@ The project was developed as part of the Computer Communication Networks (CCN) s
 ---
 
 ## Guided By
-Prof. (Dr.) Nehal Shah  
-Prof. (Dr.) Dhiren Bhagat
+- Prof. (Dr.) Nehal Shah  
+- Prof. (Dr.) Dhiren Bhagat
 
 ---
 
